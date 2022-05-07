@@ -10,7 +10,7 @@ Calendar by collection view class in swift
 ## Usage example
 To run the example project, clone the repo, and run from the Example directory first.
 
-![alt text](https://github.com/Rahul-Mayani/RRCustomCalendar/blob/main/sample.png | width=100)
+<img src="https://github.com/Rahul-Mayani/RRCustomCalendar/blob/main/sample.png" width="600">
 
 ## Contribute 
 
